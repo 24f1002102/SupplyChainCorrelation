@@ -1,3 +1,3 @@
-Email: 24f1002102@ds.study.iitm.ac.in 
-"More analysis coming soon" 
-"Working on dev branch" 
+# Supply Chain Analysis
+
+This project performs correlation analysis and heatmap visualization for supply chain dataset.
