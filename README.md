@@ -1,3 +1,2 @@
-# Supply Chain Analysis
-
-This project performs correlation analysis and heatmap visualization for supply chain dataset.
+# Supply Chain Correlation Analysis
+Email: 24f1002102@ds.study.iitm.ac.in
